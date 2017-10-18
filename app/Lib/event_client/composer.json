@@ -1,0 +1,17 @@
+{
+  "name": "cakephp.elephant.io",
+  "type": "library",
+  "description": "Send events to a websocket real time engine though PHP using elephant.io",
+  "keywords": ["Nodejs", "WebSocket", "Dialog", "Real Time", "CakePHP"],
+
+  "authors": [
+    {
+      "name": "Moretti Lucas",
+      "email": "morettilucas@hotmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "wisembly/elephant.io": "~3.0"
+  }
+}

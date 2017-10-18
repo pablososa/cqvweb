@@ -1,0 +1,1 @@
+<?php echo $this->element('viajes' . DS . 'ivr_llamadas_entrantes', compact('ivr_llamada_entrantes')); ?>

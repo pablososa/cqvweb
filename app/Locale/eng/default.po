@@ -1,0 +1,1376 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: test\n"
+"Language: en\n"
+
+#: /Admin/index.ctp:9
+#: /Empresas/add.ctp:36
+#: /Empresas/configs.ctp:9
+#: /Empresas/edit.ctp:36
+#: /Empresas/view.ctp:14
+#: /Mantenimientos/add.ctp:10
+#: /Mantenimientos/edit.ctp:10
+#: /Mantenimientos/index.ctp:9
+msgid "Admin"
+msgstr "Admin"
+
+#: /Admin/index.ctp:10
+#: /Empresas/configs.ctp:10
+#: /Empresas/reservation.ctp:60
+#: /Empresas/view.ctp:150
+msgid "Inicio"
+msgstr "Start"
+
+#: /Admin/index.ctp:21
+#: /Conductors/edit.ctp:24
+#: /Conductors/history.ctp:28
+#: /Elements/menus/admin.ctp:2
+#: /Empresas/configs.ctp:21
+#: /Empresas/history.ctp:25
+#: /Empresas/view.ctp:15
+#: /Mjspredefinidos/add.ctp:10
+#: /Mjspredefinidos/edit.ctp:10
+msgid "Empresas"
+msgstr "companies"
+
+#: /Admin/index.ctp:22
+#: /Calificacions/puntuar_viaje.ctp:11
+#: /Elements/menus/admin.ctp:3
+#: /Empresas/configs.ctp:22
+msgid "Usuarios"
+msgstr "users"
+
+#: /Admin/index.ctp:23
+#: /Elements/menus/admin.ctp:5
+#: /Elements/menus/empresas.ctp:19
+#: /Elements/menus/usuario.ctp:5
+#: /Empresas/configs.ctp:23
+msgid "Cerrar sesión"
+msgstr "Sign off"
+
+#: /Calificacions/puntuar_viaje.ctp:7
+msgid "Calificar viaje"
+msgstr "Rate trip"
+
+#: /Calificacions/puntuar_viaje.ctp:12
+msgid "Calificar"
+msgstr "Qualify"
+
+#: /Calificacions/puntuar_viaje.ctp:26
+msgid "Puntaje conductor:"
+msgstr "Driver Rating:"
+
+#: /Calificacions/puntuar_viaje.ctp:38
+msgid "Puntaje vehiculo:"
+msgstr "Vehicle Rating:"
+
+#: /Calificacions/puntuar_viaje.ctp:52
+#: /Conductors/add.ctp:195
+#: /Conductors/change_pass.ctp:68
+#: /Conductors/edit.ctp:175
+#: /Elements/viajes/admin_history.ctp:51
+#: /Empresas/add.ctp:168
+#: /Empresas/do_recover.ctp:71
+#: /Empresas/edit.ctp:153
+#: /Empresas/recover.ctp:53
+#: /Mantenimientos/add.ctp:58
+#: /Mantenimientos/edit.ctp:59
+#: /Mjspredefinidos/add.ctp:39
+#: /Mjspredefinidos/edit.ctp:40
+#: /Operadors/add.ctp:81
+#: /Operadors/edit.ctp:81
+#: /Operadors/edit_configs.ctp:33
+msgid "Cancelar"
+msgstr "Cancel"
+
+#: /Calificacions/puntuar_viaje.ctp:59
+#: /Conductors/add.ctp:202
+#: /Conductors/change_pass.ctp:75
+#: /Conductors/edit.ctp:176
+#: /Empresas/add.ctp:169
+#: /Empresas/do_recover.ctp:81
+#: /Empresas/edit.ctp:154
+#: /Empresas/recover.ctp:63
+#: /IvrDomicilios/add.ctp:59
+#: /IvrDomicilios/edit.ctp:54
+#: /Mantenimientos/add.ctp:59
+#: /Mantenimientos/edit.ctp:60
+#: /Mjspredefinidos/add.ctp:46
+#: /Mjspredefinidos/edit.ctp:47
+#: /Operadors/add.ctp:82
+#: /Operadors/edit.ctp:82
+#: /Operadors/edit_configs.ctp:34
+msgid "Confirmar"
+msgstr "Confirm"
+
+#: /Conductors/add.ctp:20
+msgid "Alta conductor"
+msgstr "high driver"
+
+#: /Conductors/add.ctp:24
+#: /Conductors/change_pass.ctp:10
+#: /Elements/menus/empresas.ctp:4
+#: /Empresas/view_conductors.ctp:7
+msgid "Conductores"
+msgstr "conductors"
+
+#: /Conductors/add.ctp:25
+msgid "add"
+msgstr "add"
+
+#: /Conductors/add.ctp:48
+#: /Conductors/edit.ctp:44
+#: /Empresas/add.ctp:52
+#: /Empresas/edit.ctp:56
+#: /Empresas/view.ctp:106
+#: /Empresas/view_conductors.ctp:57
+msgid "Nombre"
+msgstr "First name"
+
+#: /Conductors/add.ctp:60
+#: /Conductors/edit.ctp:57
+#: /Empresas/view_conductors.ctp:56
+msgid "Apellido"
+msgstr "Last name"
+
+#: /Conductors/add.ctp:72
+#: /Conductors/edit.ctp:71
+msgid "Dni"
+msgstr "dni"
+
+#: /Conductors/add.ctp:84
+#: /Conductors/edit.ctp:84
+msgid "Fecha de nacimiento"
+msgstr "Birthdate"
+
+#: /Conductors/add.ctp:96
+#: /Conductors/edit.ctp:88
+#: /Empresas/add.ctp:74
+#: /Empresas/edit.ctp:78
+#: /Empresas/view.ctp:154
+msgid "Dirección"
+msgstr "Address"
+
+#: /Conductors/add.ctp:108
+#: /Conductors/edit.ctp:100
+#: /Empresas/add.ctp:84
+#: /Empresas/edit.ctp:88
+#: /Empresas/mi_perfil.ctp:53
+#: /Empresas/view.ctp:110
+msgid "Teléfono"
+msgstr "Phone"
+
+#: /Conductors/add.ctp:123
+#: /Conductors/edit.ctp:127
+msgid "Foto"
+msgstr "Photo"
+
+#: /Conductors/add.ctp:132
+#: /Conductors/edit.ctp:112
+#: /Empresas/add.ctp:62
+#: /Empresas/edit.ctp:66
+msgid "Cuil"
+msgstr "Cuil"
+
+#: /Conductors/add.ctp:144
+#: /Conductors/edit.ctp:143
+#: /Empresas/add.ctp:79
+#: /Empresas/edit.ctp:83
+#: /Empresas/view.ctp:111
+msgid "Email"
+msgstr "E-mail"
+
+#: /Conductors/add.ctp:155
+#: /Conductors/edit.ctp:156
+#: /Operadors/view.ctp:9
+msgid "Usuario"
+msgstr "User"
+
+#: /Conductors/add.ctp:167;180
+#: /Operadors/view.ctp:14
+msgid "Password"
+msgstr "Password"
+
+#: /Conductors/change_pass.ctp:11
+msgid "changePass"
+msgstr "changepass"
+
+#: /Conductors/change_pass.ctp:25;31
+#: /Empresas/do_recover.ctp:35
+#: /Empresas/super_empresa_login.ctp:18
+#: /Operadors/add.ctp:33
+#: /Operadors/edit.ctp:32
+msgid "Contraseña"
+msgstr "Password"
+
+#: /Conductors/change_pass.ctp:37;44
+msgid "Contraseña nueva"
+msgstr "new password"
+
+#: /Conductors/change_pass.ctp:50;57
+#: /Empresas/do_recover.ctp:52
+msgid "Confirmar contraseña"
+msgstr "Confirm Password"
+
+#: /Conductors/edit.ctp:20
+msgid "Formulario de edición de conductores"
+msgstr "Edit form drivers"
+
+#: /Conductors/edit.ctp:25
+msgid "editConductors"
+msgstr "editConductors"
+
+#: /Conductors/edit.ctp:171
+msgid "Cambiar contraseña"
+msgstr "Change Password"
+
+#: /Conductors/history.ctp:24
+#: /Elements/menus/empresas.ctp:9
+#: /Empresas/travel_history.ctp:54
+msgid "Historial de viajes"
+msgstr "Travel history"
+
+#: /Conductors/history.ctp:29
+msgid "travelHistory"
+msgstr "TravelHistory"
+
+#: /Conductors/history.ctp:41
+msgid "El conductor "
+msgstr "Driver"
+
+#: /Conductors/history.ctp:44
+msgid "Viajes realizados por el conductor: "
+msgstr "Trips made by the driver:"
+
+#: /Elements/mensajes.ctp:2
+#: /Elements/menus/empresas.ctp:12
+msgid "Mensajes"
+msgstr "Messages"
+
+#: /Elements/menus/admin.ctp:4
+#: /Mantenimientos/edit.ctp:11
+#: /Mantenimientos/index.ctp:10
+msgid "Mantenimientos"
+msgstr "maintenances"
+
+#: /Elements/menus/empresas.ctp:3
+#: /Empresas/customer_history.ctp:24
+msgid "Historial de clientes"
+msgstr "Customer History"
+
+#: /Elements/menus/empresas.ctp:5
+msgid "Vehiculos"
+msgstr "vehicles"
+
+#: /Elements/menus/empresas.ctp:6
+msgid "Reservas"
+msgstr "reservations"
+
+#: /Elements/menus/empresas.ctp:7
+#: /Empresas/history.ctp:21
+#: /Empresas/super_empresa_login.ctp:6
+#: /Empresas/view_relationships.ctp:6
+msgid "Vehiculo/Conductor"
+msgstr "Vehicle / Driver"
+
+#: /Elements/menus/empresas.ctp:8
+#: /Empresas/visualization.ctp:239
+msgid "Visualización"
+msgstr "Display"
+
+#: /Elements/menus/empresas.ctp:10
+msgid "Viajes Último día"
+msgstr "Last Day Trips"
+
+#: /Elements/menus/empresas.ctp:11
+#: /IvrClientes/view.ctp:53
+msgid "Crear Viaje"
+msgstr "Create Travel"
+
+#: /Elements/menus/empresas.ctp:13
+msgid "Mensajes Predefinidos"
+msgstr "Predefined messages"
+
+#: /Elements/menus/empresas.ctp:15
+#: /Estadisticas/index.ctp:8
+msgid "Estadísticas"
+msgstr "Statistics"
+
+#: /Elements/menus/empresas.ctp:16
+msgid "Operadores"
+msgstr "operators"
+
+#: /Elements/menus/empresas.ctp:18
+#: /Elements/menus/usuario.ctp:3
+msgid "Mi Perfil"
+msgstr "My profile"
+
+#: /Elements/menus/usuario.ctp:2
+msgid "Reserva"
+msgstr "Reservation"
+
+#: /Elements/menus/usuario.ctp:4
+msgid "Historial"
+msgstr "Record"
+
+#: /Elements/viajes/admin_history.ctp:10
+#: /Empresas/travel_history.ctp:65
+msgid "No se encontraron viajes."
+msgstr "No trips found."
+
+#: /Elements/viajes/admin_history.ctp:17
+#: /Empresas/history.ctp:67
+#: /Empresas/travel_history.ctp:99
+#: /Empresas/view_relationships.ctp:48
+msgid "Conductor"
+msgstr "Driver"
+
+#: /Elements/viajes/admin_history.ctp:18
+#: /Empresas/reservation.ctp:84
+#: /Empresas/travel_history.ctp:100
+#: /Estadisticas/table.ctp:17
+#: /IvrLlamadaEntrantes/view.ctp:24
+#: /Mensajes/view.ctp:14
+msgid "Fecha"
+msgstr "Date"
+
+#: /Elements/viajes/admin_history.ctp:19
+#: /Empresas/reservation.ctp:85
+#: /Empresas/travel_history.ctp:101
+msgid "Hora"
+msgstr "Hour"
+
+#: /Elements/viajes/admin_history.ctp:20
+#: /Empresas/reservation.ctp:82
+#: /Empresas/travel_history.ctp:104
+msgid "Origen"
+msgstr "Origin"
+
+#: /Elements/viajes/admin_history.ctp:21
+#: /Empresas/view.ctp:112
+#: /Empresas/view_conductors.ctp:62
+#: /Mantenimientos/index.ctp:56
+#: /Mantenimientos/view.ctp:24
+#: /Operadors/index.ctp:61
+#: /Operadors/view.ctp:24
+msgid "Estado"
+msgstr "State"
+
+#: /Elements/viajes/admin_history.ctp:22
+msgid "Acción"
+msgstr "Action"
+
+#: /Elements/viajes/admin_history.ctp:41
+msgid "Atrasado"
+msgstr "Late"
+
+#: /Elements/viajes/admin_history.ctp:49
+#: /Empresas/customer_history.ctp:43
+#: /Empresas/view.ctp:129
+msgid "Detalles"
+msgstr "details"
+
+#: /Elements/viajes/admin_history.ctp:50
+msgid "Reasignar"
+msgstr "reassign"
+
+#: /Elements/viajes/admin_history.ctp:51
+msgid "¿Está seguro que desea cancelar el viaje?"
+msgstr "Are you sure you want to cancel the trip?"
+
+#: /Elements/viajes/admin_history.ctp:52
+msgid "Mapa"
+msgstr "Map"
+
+#: /Emails/html/activate.ctp:6
+msgid "Para activar tu cuenta haz click en el siguiente link:"
+msgstr "To activate your account click on the following link:"
+
+#: /Emails/html/change_pass.ctp:3
+msgid "Ha cambiado su contraseña"
+msgstr "You have changed your password"
+
+#: /Emails/html/recover_empresa.ctp:4
+#: /Empresas/do_recover.ctp:7
+#: /Empresas/recover.ctp:7
+msgid "ConQuienViajo"
+msgstr "ConQuienViajo"
+
+#: /Emails/html/recover_empresa.ctp:8
+msgid "Solicitud de recuperación de contraseña"
+msgstr "Request password recovery"
+
+#: /Emails/html/recover_empresa.ctp:12
+msgid "Para recuperar su contraseña, haga click en el siguiente enlace:"
+msgstr "To retrieve your password, click on the following link:"
+
+#: /Emails/html/recover_usuario.ctp:3
+msgid "Usted ha solicitado recuperar su contraseña:"
+msgstr "You have requested to recover your password:"
+
+#: /Emails/html/recover_usuario.ctp:5
+msgid "Link para recuperar contraseña:"
+msgstr "Link to retrieve password:"
+
+#: /Emails/html/usuario_deshabilitado.ctp:1
+#: /Emails/html/usuario_habilitado.ctp:1
+msgid "Buen día "
+msgstr "Good day"
+
+#: /Emails/html/usuario_deshabilitado.ctp:2
+msgid "Su usuario ha sido deshabilitado en "
+msgstr "Your user has been disabled in"
+
+#: /Emails/html/usuario_habilitado.ctp:2
+msgid "Su usuario ha sido habilitado en "
+msgstr "Your user has been enabled on"
+
+#: /Empresas/add.ctp:37
+#: /Empresas/edit.ctp:37
+msgid "Edición de empresas"
+msgstr "Business Edition"
+
+#: /Empresas/add.ctp:57
+#: /Empresas/edit.ctp:61
+msgid "Avatar"
+msgstr "Avatar"
+
+#: /Empresas/add.ctp:69
+#: /Empresas/edit.ctp:73
+msgid "Localidad"
+msgstr "Location"
+
+#: /Empresas/add.ctp:101
+#: /Empresas/edit.ctp:105
+msgid "Tipo"
+msgstr "Kind"
+
+#: /Empresas/add.ctp:107
+#: /Empresas/edit.ctp:111
+msgid "Costo de bajada de bandera"
+msgstr "Cost lowering flag"
+
+#: /Empresas/add.ctp:114
+#: /Empresas/edit.ctp:118
+msgid "Costo de ficha"
+msgstr "Cost tab"
+
+#: /Empresas/add.ctp:119
+#: /Empresas/edit.ctp:123
+msgid "Metros"
+msgstr "Meters"
+
+#: /Empresas/add.ctp:131
+msgid "Contaseña"
+msgstr "On Password"
+
+#: /Empresas/add.ctp:150
+#: /Empresas/edit.ctp:135
+#: /Empresas/view.ctp:158
+msgid "Api Key"
+msgstr "Api Key"
+
+#: /Empresas/add.ctp:157
+#: /Empresas/edit.ctp:142
+msgid "Despacho admin"
+msgstr "admin office"
+
+#: /Empresas/change_password.ctp:6
+#: /Empresas/mi_perfil.ctp:65
+msgid "Cambiar Contraseña"
+msgstr "Change Password"
+
+#: /Empresas/customer_history.ctp:36
+msgid "Ningún cliente a utilizado los servicios de la empresa."
+msgstr "No client used the services of the company."
+
+#: /Empresas/customer_history.ctp:41
+msgid "Apellido y Nombre"
+msgstr "Last name and name"
+
+#: /Empresas/customer_history.ctp:42
+msgid "Viajes completados"
+msgstr "travel completed"
+
+#: /Empresas/customer_history.ctp:61
+msgid "Detalles de viajes realizados por el cliente: "
+msgstr "Details of trips made by the client:"
+
+#: /Empresas/customer_history.ctp:90
+msgid "Volver"
+msgstr "Return"
+
+#: /Empresas/do_recover.ctp:22
+#: /Empresas/recover.ctp:22
+#: /Pages/login.ctp:26
+msgid "Recuperar contraseña"
+msgstr "Recover password"
+
+#: /Empresas/history.ctp:26
+msgid "viewRelationships"
+msgstr "viewRelationships"
+
+#: /Empresas/history.ctp:43
+#: /Empresas/view.ctp:39
+#: /Estadisticas/index.ctp:30
+#: /Mantenimientos/index.ctp:26
+msgid "Buscar"
+msgstr "Search"
+
+#: /Empresas/history.ctp:61
+msgid "No hay vehiculos registrados."
+msgstr "No vehicles registered."
+
+#: /Empresas/history.ctp:68
+#: /Mensajes/view.ctp:24
+msgid "Vehiculo"
+msgstr "Vehicle"
+
+#: /Empresas/history.ctp:69
+msgid "Fecha inicio"
+msgstr "Start date"
+
+#: /Empresas/history.ctp:70
+msgid "Hora inicio"
+msgstr "Start Time"
+
+#: /Empresas/history.ctp:71
+msgid "Fecha fin"
+msgstr "End date"
+
+#: /Empresas/history.ctp:72
+msgid "Hora fin"
+msgstr "end time"
+
+#: /Empresas/mi_perfil.ctp:6
+msgid "Mi perfil"
+msgstr "My profile"
+
+#: /Empresas/mi_perfil.ctp:29
+msgid "Nombre:"
+msgstr "First name:"
+
+#: /Empresas/mi_perfil.ctp:35
+msgid "Cuit:"
+msgstr "cuit:"
+
+#: /Empresas/mi_perfil.ctp:41
+msgid "Dirección:"
+msgstr "Address:"
+
+#: /Empresas/mi_perfil.ctp:47
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#: /Empresas/recover.ctp:34
+msgid "Ingrese su email"
+msgstr "Enter your email"
+
+#: /Empresas/reservation.ctp:76
+msgid "No se encontraron reservas."
+msgstr "No bookings found."
+
+#: /Empresas/reservation.ctp:81
+#: /Empresas/travel_history.ctp:98
+msgid "Pasajero"
+msgstr "Passenger"
+
+#: /Empresas/reservation.ctp:83
+#: /Empresas/travel_history.ctp:105
+msgid "Destino"
+msgstr "Destination"
+
+#: /Empresas/reservation.ctp:86
+msgid "Tiempo para la Reserva"
+msgstr "Time for Reserve"
+
+#: /Empresas/reservation.ctp:87
+#: /IvrClientes/view.ctp:32
+#: /IvrDomicilios/add.ctp:49
+#: /IvrDomicilios/edit.ctp:44
+#: /IvrDomicilios/view.ctp:24
+msgid "Observaciones"
+msgstr "Observations"
+
+#: /Empresas/travel_history.ctp:102
+msgid "Distancia"
+msgstr "Distance"
+
+#: /Empresas/travel_history.ctp:103
+msgid "Tarifa"
+msgstr "Rate"
+
+#: /Empresas/view.ctp:56
+msgid "Agregar empresa"
+msgstr "Add your company"
+
+#: /Empresas/view.ctp:82
+msgid "No se encontraron empresas."
+msgstr "No companies were found."
+
+#: /Empresas/view.ctp:115
+#: /Empresas/view_relationships.ctp:53
+#: /IvrClientes/view.ctp:34
+#: /Mantenimientos/index.ctp:59
+#: /Mjspredefinidos/index.ctp:76
+#: /Operadors/index.ctp:62
+msgid "Acciones"
+msgstr "Actions"
+
+#: /Empresas/view.ctp:131
+#: /Empresas/view_conductors.ctp:70
+#: /Mantenimientos/index.ctp:75
+#: /Operadors/index.ctp:73
+msgid "Deshabilitar"
+msgstr "disable"
+
+#: /Empresas/view.ctp:133
+#: /Empresas/view_conductors.ctp:78
+#: /Mantenimientos/index.ctp:77
+#: /Operadors/index.ctp:75
+msgid "Habilitar"
+msgstr "Enable"
+
+#: /Empresas/view.ctp:135
+#: /IvrClientes/view.ctp:42
+#: /Mantenimientos/index.ctp:73
+#: /Mjspredefinidos/index.ctp:84
+#: /Operadors/index.ctp:70
+msgid "Editar"
+msgstr "Edit"
+
+#: /Empresas/view.ctp:146
+msgid "Cuit"
+msgstr "Cuit"
+
+#: /Empresas/view_conductors.ctp:35
+msgid "Crear Conductor"
+msgstr "Create Driver"
+
+#: /Empresas/view_conductors.ctp:42
+msgid "No se encontraron conductores."
+msgstr "No drivers were found."
+
+#: /Empresas/view_conductors.ctp:58
+msgid "Ranking"
+msgstr "Ranking"
+
+#: /Empresas/view_conductors.ctp:59;97
+msgid "Modificar"
+msgstr "Modify"
+
+#: /Empresas/view_conductors.ctp:60
+msgid "Detalle"
+msgstr "Detail"
+
+#: /Empresas/view_conductors.ctp:85
+msgid "Eliminado"
+msgstr "Deleted"
+
+#: /Empresas/view_conductors.ctp:98
+msgid "Ver"
+msgstr "See"
+
+#: /Empresas/view_relationships.ctp:34
+msgid "No existe ningún conductor asignado a un vehiculo en este momento."
+msgstr "There is no driver assigned to a vehicle at this time."
+
+#: /Empresas/view_relationships.ctp:49
+msgid "Fecha Inicio"
+msgstr "Start date"
+
+#: /Empresas/view_relationships.ctp:50
+msgid "Hora Inicio"
+msgstr "Start Time"
+
+#: /Empresas/view_relationships.ctp:51
+msgid "Patente"
+msgstr "Patent"
+
+#: /Empresas/view_relationships.ctp:52
+msgid "Nro de Móvil"
+msgstr "Mobile Number"
+
+#: /Empresas/view_relationships.ctp:64
+msgid "Cerrar Sesión"
+msgstr "Sign off"
+
+#: /Empresas/visualization.ctp:254
+msgid "Buscar..."
+msgstr "Search..."
+
+#: /Estadisticas/index.ctp:24
+#: /Mantenimientos/index.ctp:57
+#: /Mantenimientos/view.ctp:14
+msgid "Desde"
+msgstr "Since"
+
+#: /Estadisticas/index.ctp:27
+#: /Mantenimientos/index.ctp:58
+#: /Mantenimientos/view.ctp:19
+msgid "Hasta"
+msgstr "Until"
+
+#: /Estadisticas/index.ctp:54
+msgid "Viajes por Día"
+msgstr "Day Trips"
+
+#: /Estadisticas/index.ctp:71
+msgid "Viajes"
+msgstr "Travel"
+
+#: /Estadisticas/table.ctp:3
+msgid "Total Pedidos"
+msgstr "Total Orders"
+
+#: /Estadisticas/table.ctp:7
+msgid "Pedidos Por Aplicación CQV"
+msgstr "Orders By Application CQV"
+
+#: /Estadisticas/table.ctp:11
+msgid "Pedidos Por Administrador"
+msgstr "Orders By Administrator"
+
+#: /Estadisticas/table.ctp:18;21
+msgid "Administrador"
+msgstr "Administrator"
+
+#: /Estadisticas/table.ctp:19;22
+msgid "Aplicación CQV"
+msgstr "application CQV"
+
+#: /Estadisticas/table.ctp:20;25
+msgid "Totales"
+msgstr "totals"
+
+#: /Estadisticas/table.ctp:26
+msgid "No Atendidos"
+msgstr "unserved"
+
+#: /Estadisticas/table.ctp:27;30
+msgid "0 a 8 Hs"
+msgstr "0-8 Hs"
+
+#: /Estadisticas/table.ctp:28;31
+msgid "8 a 16 Hs"
+msgstr "8 to 16 Hs"
+
+#: /Estadisticas/table.ctp:29;32
+msgid "16 a 24 Hs"
+msgstr "16-24 Hs"
+
+#: /Helper/GoogleMapV3Helper.php:420
+msgid "Map cannot be displayed!"
+msgstr "Map can not be displayed!"
+
+#: /Helper/GoogleMapV3Helper.php:566
+msgid "Enter your address"
+msgstr "Enter your address"
+
+#: /Helper/GoogleMapV3Helper.php:567
+msgid "Get directions"
+msgstr "Get directions"
+
+#: /Helper/GoogleMapV3Helper.php:1097
+msgid "Map"
+msgstr "map"
+
+#: /IvrClientes/add.ctp:4
+msgid "Add Ivr Cliente"
+msgstr "Add Ivr Customer"
+
+#: /IvrClientes/add.ctp:10
+#: /IvrClientes/edit.ctp:11
+#: /IvrLlamadaEntrantes/add.ctp:12
+#: /IvrLlamadaEntrantes/edit.ctp:13
+#: /Mensajes/add.ctp:13
+#: /Mensajes/edit.ctp:14
+msgid "Submit"
+msgstr "submit"
+
+#: /IvrClientes/add.ctp:13
+#: /IvrClientes/edit.ctp:14
+#: /IvrClientes/index.ctp:8;40
+#: /IvrDomicilios/index.ctp:10;44
+#: /IvrDomicilios/view.ctp:32
+#: /IvrLlamadaEntrantes/add.ctp:15
+#: /IvrLlamadaEntrantes/edit.ctp:16
+#: /IvrLlamadaEntrantes/index.ctp:10;46
+#: /IvrLlamadaEntrantes/view.ctp:32
+#: /Mantenimientos/view.ctp:32
+#: /Mensajes/add.ctp:16
+#: /Mensajes/edit.ctp:17
+#: /Mensajes/view.ctp:37
+#: /Mjspredefinidos/index_.ctp:8;40
+#: /Mjspredefinidos/view.ctp:22
+#: /Operadors/view.ctp:32
+msgid "Actions"
+msgstr "Actions"
+
+#: /IvrClientes/add.ctp:16
+#: /IvrClientes/edit.ctp:18
+#: /IvrDomicilios/index.ctp:47
+#: /IvrDomicilios/view.ctp:38
+#: /IvrLlamadaEntrantes/add.ctp:19
+#: /IvrLlamadaEntrantes/edit.ctp:21
+#: /IvrLlamadaEntrantes/index.ctp:49
+#: /IvrLlamadaEntrantes/view.ctp:38
+msgid "List Ivr Clientes"
+msgstr "List Ivr Customers"
+
+#: /IvrClientes/add.ctp:17
+#: /IvrClientes/edit.ctp:19
+#: /IvrClientes/index.ctp:43
+#: /IvrLlamadaEntrantes/add.ctp:21
+#: /IvrLlamadaEntrantes/edit.ctp:23
+#: /IvrLlamadaEntrantes/index.ctp:51
+#: /IvrLlamadaEntrantes/view.ctp:40
+#: /Mjspredefinidos/index_.ctp:43
+#: /Mjspredefinidos/view.ctp:28
+#: /Operadors/view.ctp:38
+msgid "List Empresas"
+msgstr "Companies list"
+
+#: /IvrClientes/add.ctp:18
+#: /IvrClientes/edit.ctp:20
+#: /IvrClientes/index.ctp:44
+#: /IvrLlamadaEntrantes/add.ctp:22
+#: /IvrLlamadaEntrantes/edit.ctp:24
+#: /IvrLlamadaEntrantes/index.ctp:52
+#: /IvrLlamadaEntrantes/view.ctp:41
+#: /Mjspredefinidos/index_.ctp:44
+#: /Mjspredefinidos/view.ctp:29
+#: /Operadors/view.ctp:39
+msgid "New Empresa"
+msgstr "New Company"
+
+#: /IvrClientes/add.ctp:19
+#: /IvrClientes/edit.ctp:21
+#: /IvrClientes/index.ctp:45
+#: /IvrDomicilios/view.ctp:36
+msgid "List Ivr Domicilios"
+msgstr "List Ivr Domicilios"
+
+#: /IvrClientes/add.ctp:20
+#: /IvrClientes/edit.ctp:22
+#: /IvrClientes/index.ctp:46
+#: /IvrDomicilios/index.ctp:46
+#: /IvrDomicilios/view.ctp:37
+msgid "New Ivr Domicilio"
+msgstr "New Ivr Address"
+
+#: /IvrClientes/add.ctp:21
+#: /IvrClientes/edit.ctp:23
+#: /IvrClientes/index.ctp:47
+#: /IvrLlamadaEntrantes/add.ctp:18
+#: /IvrLlamadaEntrantes/edit.ctp:20
+#: /IvrLlamadaEntrantes/view.ctp:36
+msgid "List Ivr Llamada Entrantes"
+msgstr "Incoming Call List Ivr"
+
+#: /IvrClientes/add.ctp:22
+#: /IvrClientes/edit.ctp:24
+#: /IvrClientes/index.ctp:48
+#: /IvrLlamadaEntrantes/index.ctp:48
+#: /IvrLlamadaEntrantes/view.ctp:37
+msgid "New Ivr Llamada Entrante"
+msgstr "New Ivr-Call"
+
+#: /IvrClientes/edit.ctp:4
+msgid "Edit Ivr Cliente"
+msgstr "Edit Customer Ivr"
+
+#: /IvrClientes/edit.ctp:17
+#: /IvrClientes/index.ctp:20
+#: /IvrDomicilios/index.ctp:24
+#: /IvrLlamadaEntrantes/edit.ctp:19
+#: /IvrLlamadaEntrantes/index.ctp:26
+#: /Mensajes/edit.ctp:20
+#: /Mjspredefinidos/index_.ctp:20
+msgid "Delete"
+msgstr "Delete"
+
+#: /IvrClientes/edit.ctp:17
+#: /IvrClientes/index.ctp:20
+#: /IvrDomicilios/index.ctp:24
+#: /IvrDomicilios/view.ctp:35
+#: /IvrLlamadaEntrantes/edit.ctp:19
+#: /IvrLlamadaEntrantes/index.ctp:26
+#: /IvrLlamadaEntrantes/view.ctp:35
+#: /Mantenimientos/view.ctp:35
+#: /Mensajes/edit.ctp:20
+#: /Mensajes/view.ctp:40
+#: /Mjspredefinidos/index_.ctp:20
+#: /Mjspredefinidos/view.ctp:25
+#: /Operadors/view.ctp:35
+msgid "Are you sure you want to delete # %s?"
+msgstr "Are you sure you want to delete #% s?"
+
+#: /IvrClientes/index.ctp:2
+msgid "Ivr Clientes"
+msgstr "Customers ivr"
+
+#: /IvrClientes/index.ctp:18
+#: /IvrDomicilios/index.ctp:22
+#: /IvrLlamadaEntrantes/index.ctp:24
+#: /Mjspredefinidos/index_.ctp:18
+msgid "View"
+msgstr "View"
+
+#: /IvrClientes/index.ctp:19
+#: /IvrDomicilios/index.ctp:23
+#: /IvrLlamadaEntrantes/index.ctp:25
+#: /Mjspredefinidos/index_.ctp:19
+msgid "Edit"
+msgstr "Edit"
+
+#: /IvrClientes/index.ctp:28
+#: /IvrDomicilios/index.ctp:32
+#: /IvrLlamadaEntrantes/index.ctp:34
+#: /Mjspredefinidos/index_.ctp:28
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "Page {: page} of {:} pages, showing {:} current records out of {:} count the total, starting on record {: start}, ending on {: end}"
+
+#: /IvrClientes/index.ctp:33
+#: /IvrDomicilios/index.ctp:37
+#: /IvrLlamadaEntrantes/index.ctp:39
+#: /Mjspredefinidos/index_.ctp:33
+msgid "previous"
+msgstr "previous"
+
+#: /IvrClientes/index.ctp:35
+#: /IvrDomicilios/index.ctp:39
+#: /IvrLlamadaEntrantes/index.ctp:41
+#: /Mjspredefinidos/index_.ctp:35
+msgid "next"
+msgstr "next"
+
+#: /IvrClientes/index.ctp:42
+#: /IvrDomicilios/index.ctp:48
+#: /IvrDomicilios/view.ctp:39
+#: /IvrLlamadaEntrantes/add.ctp:20
+#: /IvrLlamadaEntrantes/edit.ctp:22
+#: /IvrLlamadaEntrantes/index.ctp:50
+#: /IvrLlamadaEntrantes/view.ctp:39
+msgid "New Ivr Cliente"
+msgstr "Ivr New Customer"
+
+#: /IvrClientes/view.ctp:14
+msgid "Crear cliente"
+msgstr "Create customer"
+
+#: /IvrClientes/view.ctp:24
+msgid "Telefono: %s"
+msgstr "Phone:% s"
+
+#: /IvrClientes/view.ctp:27
+msgid "Crear Domicilio"
+msgstr "Create Address"
+
+#: /IvrClientes/view.ctp:31
+#: /IvrDomicilios/add.ctp:31
+#: /IvrDomicilios/edit.ctp:29
+#: /IvrDomicilios/view.ctp:14
+msgid "Domicilio"
+msgstr "Home"
+
+#: /IvrClientes/view.ctp:33
+msgid "Pricipal"
+msgstr "pricipal"
+
+#: /IvrClientes/view.ctp:40
+#: /IvrDomicilios/view.ctp:19
+msgid "Es Principal"
+msgstr "It's Home"
+
+#: /IvrClientes/view.ctp:43
+#: /Mantenimientos/index.ctp:71
+#: /Mjspredefinidos/index.ctp:85
+#: /Operadors/index.ctp:69
+msgid "Eliminar"
+msgstr "Remove"
+
+#: /IvrClientes/view.ctp:43
+msgid "¿Está seguro que desea eliminar el domicilio?"
+msgstr "Are you sure you want to delete the address?"
+
+#: /IvrDomicilios/add.ctp:12
+msgid "Crear domicilio"
+msgstr "Create home"
+
+#: /IvrDomicilios/edit.ctp:12
+msgid "Editar domicilio"
+msgstr "edit address"
+
+#: /IvrDomicilios/index.ctp:2
+msgid "Ivr Domicilios"
+msgstr "ivr Domicilios"
+
+#: /IvrDomicilios/view.ctp:2
+msgid "Ivr Domicilio"
+msgstr "ivr Address"
+
+#: /IvrDomicilios/view.ctp:4
+#: /IvrLlamadaEntrantes/view.ctp:4
+#: /Mantenimientos/view.ctp:4
+#: /Mensajes/view.ctp:4
+#: /Mjspredefinidos/view.ctp:4
+#: /Operadors/view.ctp:4
+msgid "Id"
+msgstr "id"
+
+#: /IvrDomicilios/view.ctp:9
+#: /IvrLlamadaEntrantes/view.ctp:9
+msgid "Ivr Cliente"
+msgstr "Customer ivr"
+
+#: /IvrDomicilios/view.ctp:34
+msgid "Edit Ivr Domicilio"
+msgstr "Ivr Edit Address"
+
+#: /IvrDomicilios/view.ctp:35
+msgid "Delete Ivr Domicilio"
+msgstr "Delete Ivr Address"
+
+#: /IvrLlamadaEntrantes/add.ctp:4
+msgid "Add Ivr Llamada Entrante"
+msgstr "Add Ivr-Call"
+
+#: /IvrLlamadaEntrantes/edit.ctp:4
+#: /IvrLlamadaEntrantes/view.ctp:34
+msgid "Edit Ivr Llamada Entrante"
+msgstr "Edit Ivr-Call"
+
+#: /IvrLlamadaEntrantes/index.ctp:2
+msgid "Ivr Llamada Entrantes"
+msgstr "Incoming Call ivr"
+
+#: /IvrLlamadaEntrantes/view.ctp:2
+msgid "Ivr Llamada Entrante"
+msgstr "Ivr-Call"
+
+#: /IvrLlamadaEntrantes/view.ctp:14
+#: /Mjspredefinidos/view.ctp:14
+#: /Operadors/view.ctp:19
+msgid "Empresa"
+msgstr "Company"
+
+#: /IvrLlamadaEntrantes/view.ctp:19
+msgid "Telefono"
+msgstr "Phone"
+
+#: /IvrLlamadaEntrantes/view.ctp:35
+msgid "Delete Ivr Llamada Entrante"
+msgstr "Delete Ivr-Call"
+
+#: /Layouts/default.ctp:61
+msgid "PASAJEROS"
+msgstr "PASSENGERS"
+
+#: /Layouts/default.ctp:65
+msgid "EMPRESAS"
+msgstr "COMPANIES"
+
+#: /Layouts/default.ctp:71
+msgid "CONTACTO"
+msgstr "CONTACT"
+
+#: /Layouts/default.ctp:74
+msgid "INGRESAR"
+msgstr "ENTERING"
+
+#: /Layouts/default.ctp:149
+msgid "Contactenos"
+msgstr "Contact Us"
+
+#: /Layouts/default.ctp:150
+msgid "Terminos y condiciones"
+msgstr "terms and Conditions"
+
+#: /Localizacions/panico.ctp:11
+#: /Localizacions/remove_panico.ctp:11
+msgid "Atención vehículo %s (patente %s) ha presionado el botón de pánico."
+msgstr "Attention vehicle% s (% s patent) has pressed the panic button."
+
+#: /Localizacions/panico.ctp:20
+msgid "Aceptar"
+msgstr "Accept"
+
+#: /Localizacions/remove_panico.ctp:20
+msgid "Remover Pánico"
+msgstr "remove Panic"
+
+#: /Mantenimientos/add.ctp:11
+msgid "Alta de mantenimientos"
+msgstr "High of maintenance"
+
+#: /Mantenimientos/add.ctp:26
+#: /Mantenimientos/edit.ctp:27
+#: /Mantenimientos/index.ctp:55
+#: /Mantenimientos/view.ctp:9
+#: /Mensajes/view.ctp:2
+msgid "Mensaje"
+msgstr "Message"
+
+#: /Mantenimientos/add.ctp:33
+#: /Mantenimientos/edit.ctp:34
+msgid "Fecha Desde"
+msgstr "Date from"
+
+#: /Mantenimientos/add.ctp:38
+#: /Mantenimientos/edit.ctp:39
+msgid "Fecha Hasta"
+msgstr "date Up"
+
+#: /Mantenimientos/add.ctp:45
+#: /Mantenimientos/edit.ctp:46
+msgid "Hora Desde"
+msgstr "time From"
+
+#: /Mantenimientos/add.ctp:50
+#: /Mantenimientos/edit.ctp:51
+msgid "Hora Hasta"
+msgstr "time Up"
+
+#: /Mantenimientos/index.ctp:32
+msgid "Agregar mantenimiento"
+msgstr "Add maintenance"
+
+#: /Mantenimientos/index.ctp:43
+msgid "No se encontraron mantenimientos."
+msgstr "No maintenance found."
+
+#: /Mantenimientos/index.ctp:72
+msgid "Previsualizar"
+msgstr "preview"
+
+#: /Mantenimientos/view.ctp:2
+msgid "Mantenimiento"
+msgstr "Maintenance"
+
+#: /Mantenimientos/view.ctp:34
+msgid "Edit Mantenimiento"
+msgstr "Edit Maintenance"
+
+#: /Mantenimientos/view.ctp:35
+msgid "Delete Mantenimiento"
+msgstr "Delete Maintenance"
+
+#: /Mantenimientos/view.ctp:36
+msgid "List Mantenimientos"
+msgstr "list Maintenance"
+
+#: /Mantenimientos/view.ctp:37
+msgid "New Mantenimiento"
+msgstr "New Maintenance"
+
+#: /Mensajes/add.ctp:4
+msgid "Add Mensaje"
+msgstr "Add Message"
+
+#: /Mensajes/add.ctp:19
+#: /Mensajes/edit.ctp:21
+#: /Mensajes/view.ctp:41
+msgid "List Mensajes"
+msgstr "list messages"
+
+#: /Mensajes/add.ctp:20
+#: /Mensajes/edit.ctp:22
+#: /Mensajes/view.ctp:43
+msgid "List Vehiculos"
+msgstr "Car list"
+
+#: /Mensajes/add.ctp:21
+#: /Mensajes/edit.ctp:23
+#: /Mensajes/view.ctp:44
+msgid "New Vehiculo"
+msgstr "New Vehicle"
+
+#: /Mensajes/edit.ctp:4
+#: /Mensajes/view.ctp:39
+msgid "Edit Mensaje"
+msgstr "Edit Message"
+
+#: /Mensajes/get_mensajes.ctp:7
+msgid "Enviar"
+msgstr "Submit"
+
+#: /Mensajes/get_mensajes.ctp:19
+msgid "No existe ningún mensaje."
+msgstr "There is no message."
+
+#: /Mensajes/get_mensajes.ctp:66
+msgid "Ver mas"
+msgstr "See more"
+
+#: /Mensajes/view.ctp:9
+#: /Mjspredefinidos/add.ctp:25
+#: /Mjspredefinidos/edit.ctp:25
+#: /Mjspredefinidos/index.ctp:75
+#: /Mjspredefinidos/view.ctp:9
+msgid "Texto"
+msgstr "Text"
+
+#: /Mensajes/view.ctp:19
+#: /Operadors/index.ctp:60
+#: /Operadors/view.ctp:2
+msgid "Operador"
+msgstr "Operator"
+
+#: /Mensajes/view.ctp:29
+msgid "Visto"
+msgstr "Viewed"
+
+#: /Mensajes/view.ctp:40
+msgid "Delete Mensaje"
+msgstr "Delete Message"
+
+#: /Mensajes/view.ctp:42
+msgid "New Mensaje"
+msgstr "New Message"
+
+#: /Mjspredefinidos/add.ctp:6
+msgid "Formulario de creación de mensajes predefinidos"
+msgstr "Creation form predefined messages"
+
+#: /Mjspredefinidos/add.ctp:11
+#: /Mjspredefinidos/edit.ctp:11
+msgid "addVehiculos"
+msgstr "addVehiculos"
+
+#: /Mjspredefinidos/edit.ctp:6
+msgid "Formulario de edición de mensajes predefinidos"
+msgstr "Edit form predefined messages"
+
+#: /Mjspredefinidos/index.ctp:6
+#: /Mjspredefinidos/index_.ctp:2
+msgid "Mjspredefinidos"
+msgstr "Mjspredefinidos"
+
+#: /Mjspredefinidos/index.ctp:35
+msgid "Crear Mensaje"
+msgstr "Create Message"
+
+#: /Mjspredefinidos/index.ctp:42
+msgid "No se encontraron mensajes predefinidos."
+msgstr "No predefined messages they found."
+
+#: /Mjspredefinidos/index.ctp:85
+msgid "¿Esta seguro que desea eliminar el mensaje predefinido \"%s\"?"
+msgstr "Are you sure you want to delete the predefined message \"% s\"?"
+
+#: /Mjspredefinidos/index_.ctp:42
+#: /Mjspredefinidos/view.ctp:27
+msgid "New Mjspredefinido"
+msgstr "New Mjspredefinido"
+
+#: /Mjspredefinidos/view.ctp:2
+msgid "Mjspredefinido"
+msgstr "I mjspredefinido"
+
+#: /Mjspredefinidos/view.ctp:24
+msgid "Edit Mjspredefinido"
+msgstr "Edit Mjspredefinido"
+
+#: /Mjspredefinidos/view.ctp:25
+msgid "Delete Mjspredefinido"
+msgstr "Delete Mjspredefinido"
+
+#: /Mjspredefinidos/view.ctp:26
+msgid "List Mjspredefinidos"
+msgstr "list Mjspredefinidos"
+
+#: /Operadors/add.ctp:6
+#: /Operadors/edit.ctp:6
+msgid "Formulario de creación de usuarios"
+msgstr "User creation form"
+
+#: /Operadors/add.ctp:20
+#: /Operadors/edit.ctp:22
+msgid "Nombre de Usuario"
+msgstr "Username"
+
+#: /Operadors/add.ctp:43
+#: /Operadors/edit.ctp:42
+msgid "Verifique Contraseña"
+msgstr "Verify Password"
+
+#: /Operadors/add.ctp:63
+#: /Operadors/edit.ctp:63
+msgid "Clave de telefono"
+msgstr "Key phone"
+
+#: /Operadors/add.ctp:70
+#: /Operadors/edit.ctp:70
+msgid "Número de linea"
+msgstr "Line number"
+
+#: /Operadors/edit_configs.ctp:6
+msgid "Formulario de edición de configuraciones"
+msgstr "Edit form configurations"
+
+#: /Operadors/edit_configs.ctp:20
+msgid "Puede elegir a que móvil crear el viaje"
+msgstr "You can choose to create mobile trip"
+
+#: /Operadors/index.ctp:6
+msgid "Operadors"
+msgstr "Operadors"
+
+#: /Operadors/index.ctp:36
+msgid "Crear operador"
+msgstr "Create operator"
+
+#: /Operadors/index.ctp:44
+msgid "No se encontraron vehiculos."
+msgstr "No vehicles were found."
+
+#: /Operadors/index.ctp:69
+msgid "¿Esta seguro que desea eliminar el operador \"%s\"?"
+msgstr "Are you sure you want to delete the operator \"% s\"?"
+
+#: /Operadors/index.ctp:71
+msgid "Configuraciones"
+msgstr "configurations"
+
+#: /Operadors/view.ctp:34
+msgid "Edit Operador"
+msgstr "Edit Operator"
+
+#: /Operadors/view.ctp:35
+msgid "Delete Operador"
+msgstr "Delete Operator"
+
+#: /Operadors/view.ctp:36
+msgid "List Operadors"
+msgstr "list Operadors"
+
+#: /Operadors/view.ctp:37
+msgid "New Operador"
+msgstr "New Operator"
+
+#: /Pages/contacto.ctp:6
+msgid "Formulario de contacto"
+msgstr "Contact Form"
+
+#: /Pages/contacto.ctp:10
+#: /Pages/tyc.ctp:10
+msgid "Contacto"
+msgstr "Contact"
+
+#: /Pages/login.ctp:25;41
+msgid "Registrarse"
+msgstr "Check in"
+
+#: /Pages/login.ctp:42
+msgid "Ingresar"
+msgstr "deposit"
+
+#: /Pages/tyc.ctp:6
+msgid "TÉRMINOS Y CONDICIONES DE USO"
+msgstr "TERMS OF USE"
+
